@@ -37,6 +37,6 @@ Proficient in Linux and MySQL for efficient data management and system operation
 
 **How to Reach Me:**  
 📫 Drop me a line at [pasapuroshini0912@gmail.com](mailto:pasapuroshini0912@gmail.com).  
-🔮 Connect with me on [LinkedIn](#).
+🔮 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshinip0912/).
 
 Let's innovate together! 🧙‍♂️✨
