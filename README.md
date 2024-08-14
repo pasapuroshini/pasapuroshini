@@ -1,7 +1,11 @@
 Hi there! 👋 I'm Roshini Pasapu 🚀✨
+
+
 Dive into my world of code, where passion meets precision to create innovative solutions.
 
 🫣 Who Am I?
+
+
 🚀 SDE Intern at Wissda Consulting Private Limited, driven by a zeal for technology and problem-solving. With a strong foundation in both software development and technical analysis, I'm eager to continue learning and contributing to impactful projects.
 
 💼 Wanna Know My Professional Skills? Let's Dive into it.
