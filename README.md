@@ -1,4 +1,6 @@
-Hi there! 👋 I'm Roshini Pasapu 🚀✨
+Hi there!
+
+👋 I'm Roshini Pasapu 🚀✨
 Dive into my world of code, where passion meets precision to create innovative solutions.
 
 🫣 Who Am I?
