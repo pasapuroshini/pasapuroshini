@@ -7,11 +7,11 @@ Dive into my world of code, where passion meets precision to create innovative s
 ## 💼 Wanna Know My Professional Skills? Let's Dive into it.  
 ### ⚡ **Programming Prowess:**  
 Skilled in Python, PHP, Core Java, C, C#, C++, with hands-on experience in crafting robust solutions across multiple languages.  
-**Python** | **PHP** | **Core Java** | **C** | **C#** | **C++**
+**Python** | **PHP** | **Core Java** | **C**  | **C++**
 
 ### ⚡ **Frontend Expertise:**  
-Adept at creating interactive and visually engaging web applications using HTML, CSS, JavaScript, React.js, and Tailwind CSS.  
-**HTML** | **CSS** | **JavaScript** | **React.js** | **Tailwind CSS**
+Adept at creating interactive and visually engaging web applications using HTML, CSS, JavaScript and React.js.  
+**HTML** | **CSS** | **JavaScript** | **React.js** 
 
 ### ⚡ **Technologies & Tools:**  
 Proficient in Linux and MySQL for efficient data management and system operations.  
